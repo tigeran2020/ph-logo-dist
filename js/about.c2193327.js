@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{"0a6f":function(t,n,e){"use strict";e("5fd4")},"5fd4":function(t,n,e){},f820:function(t,n,e){"use strict";e.r(n);var c=function(){var t=this,n=t.$createElement;t._self._c;return t._m(0)},u=[function(){var t=this,n=t.$createElement,e=t._self._c||n;return e("div",{staticClass:"about"},[e("h3",[t._v("PH-logo.fun")]),e("p",[t._v("愉快的玩耍吧，朋友！")])])}],a=(e("0a6f"),e("2877")),f={},s=Object(a["a"])(f,c,u,!1,null,"46b2dcf2",null);n["default"]=s.exports}}]);
+//# sourceMappingURL=about.c2193327.js.map
